@@ -8,3 +8,5 @@ Press [ESC] to quit program; move window by clicking and holding on it :P
 *psexec.exe* is needed to enable remoteshutdown over network.
 
 *rsh_x86_console.exe* has an console packaged with the gui for "debugging"
+
+*rsh.au3* is the Autoit3 source code for this magic unicorn.
